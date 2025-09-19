@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Прогрмування\OOP\LR1_1\LR1_1\Main.cpp(18,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Прогрмування\OOP\LR1_1\LR1_1\Main.cpp(20,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Прогрмування\OOP\LR1_1\LR1_1\Main.cpp(27,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Прогрмування\OOP\LR1_1\LR1_1\Main.cpp(28,34): warning C4305: 'argument': truncation from 'double' to 'float'
+  LR1_1.vcxproj -> C:\Прогрмування\OOP\LR1_1\x64\Debug\LR1_1.exe
