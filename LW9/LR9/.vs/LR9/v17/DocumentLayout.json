@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Programuvannya\\cpp\\LW9\\LR9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE207C25-49A2-42D3-9586-B1D7E1C57336}|LR9\\LR9.csproj|c:\\programuvannya\\cpp\\lw9\\lr9\\lr9\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE207C25-49A2-42D3-9586-B1D7E1C57336}|LR9\\LR9.csproj|solutionrelative:lr9\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CE207C25-49A2-42D3-9586-B1D7E1C57336}|LR9\\LR9.csproj|c:\\programuvannya\\cpp\\lw9\\lr9\\lr9\\katok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE207C25-49A2-42D3-9586-B1D7E1C57336}|LR9\\LR9.csproj|solutionrelative:lr9\\katok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE207C25-49A2-42D3-9586-B1D7E1C57336}|LR9\\LR9.csproj|c:\\programuvannya\\cpp\\lw9\\lr9\\lr9\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CE207C25-49A2-42D3-9586-B1D7E1C57336}|LR9\\LR9.csproj|solutionrelative:lr9\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CE207C25-49A2-42D3-9586-B1D7E1C57336}|LR9\\LR9.csproj|C:\\Programuvannya\\cpp\\LW9\\LR9\\lr9\\katok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE207C25-49A2-42D3-9586-B1D7E1C57336}|LR9\\LR9.csproj|solutionrelative:lr9\\katok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE207C25-49A2-42D3-9586-B1D7E1C57336}|LR9\\LR9.csproj|c:\\programuvannya\\cpp\\lw9\\lr9\\lr9\\katok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CE207C25-49A2-42D3-9586-B1D7E1C57336}|LR9\\LR9.csproj|solutionrelative:lr9\\katok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CE207C25-49A2-42D3-9586-B1D7E1C57336}|LR9\\LR9.csproj|c:\\programuvannya\\cpp\\lw9\\lr9\\lr9\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE207C25-49A2-42D3-9586-B1D7E1C57336}|LR9\\LR9.csproj|solutionrelative:lr9\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE207C25-49A2-42D3-9586-B1D7E1C57336}|LR9\\LR9.csproj|C:\\Programuvannya\\cpp\\LW9\\LR9\\lr9\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE207C25-49A2-42D3-9586-B1D7E1C57336}|LR9\\LR9.csproj|solutionrelative:lr9\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\Programuvannya\\cpp\\LW9\\LR9\\LR9\\MainForm.cs",
               "RelativeDocumentMoniker": "LR9\\MainForm.cs",
@@ -47,20 +47,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Katok.cs",
               "DocumentMoniker": "C:\\Programuvannya\\cpp\\LW9\\LR9\\LR9\\Katok.cs",
               "RelativeDocumentMoniker": "LR9\\Katok.cs",
               "ToolTip": "C:\\Programuvannya\\cpp\\LW9\\LR9\\LR9\\Katok.cs",
               "RelativeToolTip": "LR9\\Katok.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAswD8AAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAGYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-18T10:40:14.652Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Katok.cs [Design]",
               "DocumentMoniker": "C:\\Programuvannya\\cpp\\LW9\\LR9\\LR9\\Katok.cs",
               "RelativeDocumentMoniker": "LR9\\Katok.cs",
@@ -72,15 +72,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "C:\\Programuvannya\\cpp\\LW9\\LR9\\LR9\\MainForm.cs",
               "RelativeDocumentMoniker": "LR9\\MainForm.cs",
               "ToolTip": "C:\\Programuvannya\\cpp\\LW9\\LR9\\LR9\\MainForm.cs [Design]",
               "RelativeToolTip": "LR9\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T10:39:01.205Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-11-18T10:39:01.205Z"
             }
           ]
         }

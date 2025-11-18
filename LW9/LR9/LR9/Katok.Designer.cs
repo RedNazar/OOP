@@ -41,6 +41,7 @@
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             Name = "Katok";
+            Load += Katok_Load;
             Paint += Katok_Paint;
             ResumeLayout(false);
         }

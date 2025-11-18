@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\LR_9_1_OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E01AA4C6-AAFA-4D5F-95F6-F85A89C65892}|LR_9_1_OOP\\LR_9_1_OOP.csproj|c:\\users\\user\\source\\repos\\lr_9_1_oop\\lr_9_1_oop\\stitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01AA4C6-AAFA-4D5F-95F6-F85A89C65892}|LR_9_1_OOP\\LR_9_1_OOP.csproj|solutionrelative:lr_9_1_oop\\stitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01AA4C6-AAFA-4D5F-95F6-F85A89C65892}|LR_9_1_OOP\\LR_9_1_OOP.csproj|c:\\users\\user\\source\\repos\\lr_9_1_oop\\lr_9_1_oop\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01AA4C6-AAFA-4D5F-95F6-F85A89C65892}|LR_9_1_OOP\\LR_9_1_OOP.csproj|solutionrelative:lr_9_1_oop\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01AA4C6-AAFA-4D5F-95F6-F85A89C65892}|LR_9_1_OOP\\LR_9_1_OOP.csproj|c:\\users\\user\\source\\repos\\lr_9_1_oop\\lr_9_1_oop\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E01AA4C6-AAFA-4D5F-95F6-F85A89C65892}|LR_9_1_OOP\\LR_9_1_OOP.csproj|solutionrelative:lr_9_1_oop\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01AA4C6-AAFA-4D5F-95F6-F85A89C65892}|LR_9_1_OOP\\LR_9_1_OOP.csproj|c:\\users\\user\\source\\repos\\lr_9_1_oop\\lr_9_1_oop\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01AA4C6-AAFA-4D5F-95F6-F85A89C65892}|LR_9_1_OOP\\LR_9_1_OOP.csproj|solutionrelative:lr_9_1_oop\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01AA4C6-AAFA-4D5F-95F6-F85A89C65892}|LR_9_1_OOP\\LR_9_1_OOP.csproj|c:\\users\\user\\source\\repos\\lr_9_1_oop\\lr_9_1_oop\\stitch.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01AA4C6-AAFA-4D5F-95F6-F85A89C65892}|LR_9_1_OOP\\LR_9_1_OOP.csproj|solutionrelative:lr_9_1_oop\\stitch.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 368,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LR_9_1_OOP\\LR_9_1_OOP\\MainForm.cs",
+              "RelativeDocumentMoniker": "LR_9_1_OOP\\MainForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LR_9_1_OOP\\LR_9_1_OOP\\MainForm.cs [Design]",
+              "RelativeToolTip": "LR_9_1_OOP\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T11:39:39.859Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Stitch.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LR_9_1_OOP\\LR_9_1_OOP\\Stitch.cs",
+              "RelativeDocumentMoniker": "LR_9_1_OOP\\Stitch.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LR_9_1_OOP\\LR_9_1_OOP\\Stitch.cs",
+              "RelativeToolTip": "LR_9_1_OOP\\Stitch.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAswIcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T10:58:32.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LR_9_1_OOP\\LR_9_1_OOP\\MainForm.cs",
+              "RelativeDocumentMoniker": "LR_9_1_OOP\\MainForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LR_9_1_OOP\\LR_9_1_OOP\\MainForm.cs",
+              "RelativeToolTip": "LR_9_1_OOP\\MainForm.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAUwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T10:59:44.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LR_9_1_OOP\\LR_9_1_OOP\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "LR_9_1_OOP\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LR_9_1_OOP\\LR_9_1_OOP\\MainForm.Designer.cs",
+              "RelativeToolTip": "LR_9_1_OOP\\MainForm.Designer.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAUwMAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T11:14:51.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Stitch.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LR_9_1_OOP\\LR_9_1_OOP\\Stitch.Designer.cs",
+              "RelativeDocumentMoniker": "LR_9_1_OOP\\Stitch.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LR_9_1_OOP\\LR_9_1_OOP\\Stitch.Designer.cs",
+              "RelativeToolTip": "LR_9_1_OOP\\Stitch.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAnwB8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T11:09:26.611Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
